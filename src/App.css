@@ -1,0 +1,22 @@
+/* .App{
+    height:1300px;
+    width: 550px;
+    background-color: crimson;
+    margin-left: 30px;
+    border-radius: 20px;
+    gap: 10px;
+    padding-right: 35px;
+    
+}
+.Add{
+    background-color: darkmagenta;
+    border-radius: 5px;
+    height: 20px;
+    width: 200px;
+    margin-left: 80px;
+    
+} */
+.outer-box{
+    width: 500px;
+    margin: 2% auto;
+}

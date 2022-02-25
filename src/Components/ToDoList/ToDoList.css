@@ -1,0 +1,54 @@
+/* button{
+    color: black;
+    background-color: green;
+}
+.head{
+    display: flex;
+    height:40px;
+    width: 450px;
+    justify-content: center;
+    justify-content: space-between;
+    margin-left: 60px;
+} */
+.todo-list{
+    max-height: 350px;
+    overflow-y:auto;
+}
+ul{
+    margin:0;
+    padding:0;
+    list-style: none;
+}
+li{
+    display:flex;
+    justify-content: space-between;
+    background: lightgrey;
+    font-size: 18px;
+    font-weight: 600;
+    color: blue;
+    padding: 15px 15px 15px 10px;
+    border-bottom: 1px solid white;
+    border-top: 1px solid white;
+}
+.icon{
+    display:flex;
+    justify-content: space-between;
+    width:100px;
+}
+.pointer{
+    cursor: pointer;
+}
+.line.through{
+    text-decoration: line-through;
+    color: black;
+}
+.red{
+    color:red;
+
+}
+.blue{
+    color:dodgerblue;
+}
+.green{
+    color: black;
+}
